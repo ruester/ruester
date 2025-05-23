@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Full Stack Developer with a lot of experience in Python, PHP, Go, Bash, PostgreSQL, Vue.js, Docker, Ansible and GitLab CI.
+Full Stack Developer with a lot of experience in Python, PHP, Go, Bash, PostgreSQL, Vue.js, Docker, Ansible and GitLab CI.<br>
 🚀 DevOps and AWS Cloud Enthusiast ☁
 
 ## 🌐 Socials:
