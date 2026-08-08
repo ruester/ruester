@@ -15,7 +15,6 @@ jobs:
       - uses: gh-metrics/metrics@1a5109cfed6faf59ffe606435b73006ca76b0e4d # master, fixes achievements/projectsV2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          use_prebuilt_image: false
           filename: github-metrics.svg
           theme: dark
           plugin_languages: yes
